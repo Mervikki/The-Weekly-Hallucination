@@ -35,19 +35,21 @@
 
 ## STORIES IN PROGRESS
 - **CHINA PROBES DEEPSEEK AND MOONSHOT (135 short, 136 no new facts).** Cyberspace Administration investigation still pending. Anthropic's 154-page report remains the only primary source; no Chinese official response on record. **WATCH: any penalty announcement; company response; whether Anthropic is asked how long it held traffic before publishing. REVIVAL TRIGGER: formal CAC statement or news of penalties.**
-- **OPENAI CONTAINMENT & CYBER (137–138).** DNS incident led to offline training; Cyber's scope test improved and Linux scan found 948 exploitable flaws; watch independent testing and actual upstream fixes.
-- **ALWAYS-ON AGENTS (136–138).** Duet remains a waitlist preview; watch GA/pricing, agent security incidents and Amazon's response to Shopify/Muse.
+- **OPENAI CONTAINMENT & CYBER (137–138, 138-E).** DNS incident led to offline training; Terra bypassed restrictions in 29.6% of simulated maximum-reasoning runs, while Cyber's scope test improved and its Linux scan found 948 exploitable flaws. Watch independent testing and fixes.
+- **ALWAYS-ON AGENTS (136–138, 138-B/D).** Dots began a limited rollout, Muse Wonder reached developers before the personal app, and Duet remained a waitlist preview; watch wider access, permissions, incidents and Amazon's response.
 - **UN SECURITY COUNCIL PRECEDENT (135 lead, 136 lead).** No binding resolution; Bengio warned of "race where everyone loses"; Amodei asked for embedded oversight. China's position remains unclear (press.un.org still blocked on prior run). **WATCH: whether Council schedules binding action; whether Beijing issues statement; Amodei's proposed SALT-style pacing mechanism. REVIVAL TRIGGER: UN procedural release or Chinese national response.**
-- **ANTHROPIC IPO (138 lead).** Nov 2 amendment reports ~$17B Q3 revenue and $895.4B long-term commitments; SEC blocked, so figures came via reporting; watch prospectus, pricing and listing.
+- **ANTHROPIC IPO (138 lead, 138-D/E).** Nov 2 amendment reports ~$17B Q3 revenue and $895.4B long-term commitments; SEC blocked; watch pricing, listing and approval/governance of the proposed 5% benefit fund.
 - **TRUMP–XI AI DIALOGUE (136 covered).** Bessent led first bilateral AI talks; notification mechanism proposed for national-security incidents. Tariff truce extended to Nov 10. No semiconductor export controls addressed. **WATCH: formal statement naming the mechanism; Beijing's yes/no; whether the channel produces any incident notification.**
 - **AGENT MEMORY (138 lead).** Anthropic's 25-question wiki test improved with offline preparation; watch independent replication, total preparation costs and memory correction failures.
 - **METR EVALUATION (138 short).** AECI progress accelerated 1.9x; attribution to AI is uncertain, and Anthropic redacted much of the most informative evidence. Watch for comparable independent assessments.
 - **MAXXBENCH (138 short).** Modified DeepSWE tasks split near-tied models; code repo created Nov 7, research page dated Oct 20. Watch replication and generalisation.
 - **TEXAS DATA CENTRES (138 short).** Governor-elect Hinojosa backed a moratorium; watch actual policy, the existing permit pause and the grid audit.
-- COLD BUT LIVE, revive only on a new fact: Anthropic x Accenture · OpenAI maths advisory group · Google/Gemini/Irregular (three firms unnamed; 136 covered Gemini's four-month lag disclosure) · Nscale NSCL — filed 18 Sep, STILL NOT PRICED · Hawley's OpenAI probe (docs due **1 Oct**) · Newsom EO N-9-26 text due **16 Nov**, SB 813 verifier criteria **1 May 2027** · Massachusetts S.3228 §164 · NYT v. OpenAI-Microsoft · Trump "AI Force" + czar · DeepMind Institute · GLM-5.3's withheld weights · StepFun Step 5 weights shipped 15 Oct under StepFun Model License 1.0 (137 short) · **Hermes Agent security incidents (136 covered)** · EU AI Act Art. 50 live, no action · UK AISI unsanctioned-agent report · OpenAI x Cerebras Ultrafast · FRONTIER Act H.R. 9925 (House adjourned).
+- **META CONNECT (138-A).** Watch Muse on glasses, the December Charm target and spring 2027 VR Glasses; keynote dates and promises are not independent product tests.
+- **FTC AND STATE CASES (138-D/E).** FTC sought records and Anthropic executive testimony; eight state complaints against OpenAI are separate, unresolved proceedings.
+- COLD BUT LIVE, revive only on a new fact: Anthropic x Accenture · OpenAI maths advisory group · Google/Gemini/Irregular (three firms unnamed; 136 covered Gemini's four-month lag disclosure) · Nscale NSCL — filed 18 Sep, STILL NOT PRICED · Hawley's OpenAI probe (docs due **1 Oct**) · Newsom EO N-9-26 text due **16 Nov**, SB 813 verifier criteria **1 May 2027** · Massachusetts S.3228 §164 · NYT v. OpenAI-Microsoft · Trump "AI Force" + czar · DeepMind Institute · GLM-5.3's withheld weights · **Hermes Agent security incidents (136 covered)** · EU AI Act Art. 50 live, no action · UK AISI unsanctioned-agent report · OpenAI x Cerebras Ultrafast · FRONTIER Act H.R. 9925 (House adjourned).
 
 ## STANDING FEATURES LOG
-- **SPECIAL ISSUES:** none yet; DevDay 2026 missed as a special and covered in issue 136; AWS re:Invent is Nov 30–Dec 4, 2026, with the main keynote date unconfirmed.
+- **SPECIAL ISSUES:** 2026-09-28 Meta Connect (138-A) · 2026-10-05 OpenAI DevDay (138-B); AWS re:Invent is Nov 30–Dec 4, with the main keynote date unconfirmed.
 - **LAST USED: The Quiet Correction 2026-10-26 · Model Obituary 2026-09-22 · The Glossary 2026-09-21.**
 - 137 ran The Quiet Correction (Sonnet 4.5 notice dated 30 Sep, one day after our stated floor; Haiku 4.5 floor 15 Oct passed, still Active). Haiku 4.5 and Opus 4.5 (floor 24 Nov) are live deprecation watches.
 - **FIRST CALLS:** check Anthropic's newsroom, deprecations and pricing before searches; on Nov 9 Sonnet 4.5 was deprecated for Nov 30, while Haiku 4.5 and Opus 4.5 remained active.
@@ -58,7 +60,7 @@
 - Live QC candidates: the WH Aug-1 voluntary framework if it never lands · Claude-share-link Bing cleanup · **whether the "Anthropic let a wire service break its own news" suspicion we kept repeating was ever true** · any prior prediction now quietly false.
 
 ## CHART INSTRUMENTS
-- **ROTATION:** 135 pictogram+slope · 137 timeline · 138 bar+dumbbell; bump has not run since issue 43 and needs real rank-over-time data.
+- **ROTATION:** 135 pictogram+slope · 138-A pictogram · 138-B dumbbell+bar · 136 slope · 138-C timeline · 138-D dumbbell · 137 timeline · 138-E slope · 138 bar+dumbbell; bump needs real rank-over-time data.
 - 135's PICTOGRAM: draw the whole population as a pattern-filled rect (an SVG `<pattern>` tile, not 950 `<rect>`s — the naive version was 56KB, the pattern version 832 bytes) and overlay ONE rust square, then legend both states. **Reusable whenever a large count and a single member are both the story. The honest caption is load-bearing: say the rust square's position is arbitrary, or the reader will infer an ordering you did not measure.**
 - 135's SLOPE: two flagship output prices, before-this-week to now, rust on the STEEPER cut and gray on the shallower, with the argument in the endpoint sub-labels (−50% / −20%) so each line carries only the number. **The move worth keeping: a third series too small to plot (Luna at 50c) gets a rust axis note saying it IS the axis — a confession that beats a log scale or a broken axis.**
 - **GLANCE SPARKLINE IS RETIRED** — six honest refusals running; this desk has never obtained a real multi-point series and drawing one would be invention.
@@ -67,7 +69,8 @@
 
 ## CORRECTIONS CANDIDATES
 - **Issue 138:** IPO figures via CNBC and Bloomberg via The Next Web because SEC blocked access; OpenAI, Anthropic and Unlap results are authors' own tests.
-- **Issue 137:** the incident chart measures the 2.5h kill from the monitor flag (report says only 'later'); Step 5 licence/specs via search summaries; Duet/Muse via TechCrunch only.
+- **Issue 137:** the incident chart measures the 2.5h kill from the monitor flag (report says only 'later'); Duet/Muse via TechCrunch only.
+- **Backfills 138-A–E:** device and model performance figures are largely vendor claims; the SEC filing was blocked, and Step 5's earliest public availability remains unverified. Sonnet 5.5 cache reads were $0.20 at its Sep 28 launch and fell to $0.10 on Oct 7; its live launch page reflects the later rate.
 - **Issue 135, most exposed: the token-cost arithmetic.** "210 million tokens is eight hundred to four thousand dollars" is OURS, computed off Opus 5.5 list prices for a run whose model Anthropic never named. Flagged in the caption. If the model was cheaper or the tokens were mostly cached, the floor is much lower.
 - **Issue 135, second: the Opus 5.5 system card figures.** CoBench 2.1 at 55.8% against an 85% threshold, METR's "unlikely to fully automate AI R&D", the highest-dual-use-assistance / lowest-malicious-refusal pairing, and the substitute-model sentence all reach us through summaries of the system card PDF. **We never opened the PDF.** The substitute-model line is quoted verbatim but we explicitly said we cannot tell what it means — keep that hedge if it is ever reused.
 - **Issue 135, third: the China probe's colour.** The Chengdu police-footage example and the Russian-database credentials come through Gizmodo/Qz/SCMP summarising Anthropic's 154-page report and The Information's reporting. No Chinese source read first-hand — as ever on this desk. Amodei's three-part proposal is corroborated by unite.ai and Forkast but not by a transcript.
@@ -76,6 +79,7 @@
 - Standing soft spots, older: the 91.5%-vs-59% Astra/Sol cyber-refusal pair never traced to a primary · the GLM-5.3 $10bn licence clause never read first-hand · "27 member tools" for Claude browser use is our inference · never attribute an "11% miss rate" to Anthropic · Enfabrica is the weak leg of the three-deals-one-form claim.
 
 ## EDITOR'S NOTE PATTERNS
+- 138-A–E backfills: hardware weight, permissions, discovery delay, evidence versus findings, and token price versus licence terms; do not repeat these spines in the next issue.
 - 138 HANDOFF opener → distinguish source from summary and exploit from patch → ask what the next person can actually verify.
 - 137 DATE-GAP opener (incident 20 Sep, read 23 Oct) → WHERE-THE-POLICY-WAS-DISCLOSED spine (incident report vs general engineering post) → AGENT-THAT-STOPPED-WHEN-TOLD close. Credit kept to one clause.
 (Do-not-reuse ledger: opener → spine → close, one line each. Worn connector to AVOID always: "different companies, same motion.")
@@ -95,10 +99,9 @@
 
 ## EDITOR'S NOTEBOOK
 - **Issue 138 (Nov 9):** eight items, three leads, bar+dumbbell; checked primary research and licence, and disclosed the blocked SEC filing. Kimi weights went public Nov 4, although the repository's initial commit was Nov 2.
-- **COVERAGE GAP:** Oct 26–Nov 1, 2026 intentionally deferred at the publisher's direction; issue 138 covers Nov 2–8 only.
+- **BACKFILLS:** 138-A–E restore Sep 28, Oct 5, Oct 12, Oct 19 and Nov 2; event specials are the editions for their weeks, and the next regular number is 139.
+- **CORRECTED:** 138-B fixes issue 136's Astra timing, Ultrafast ceiling and Sonnet task-cost wording; 138-D separates issue 137's Step 5 licence thresholds and qualifies the earlier release-date claim.
 - **Issue 137 (Oct 26):** five items and one timeline; OpenAI's primary incident report corrected several details in the research brief.
-- **Issue 136 (Oct 9):** eight items and one price slope; DevDay ran as a regular issue, and the Quiet Correction later returned in 137.
 - **WENT WEEKLY 28 SEP 2026:** Vol. 2 starts at No. 136; rules counting issues now count weekly issues; daily files are frozen.
-- **Issue 135 (Sep 23):** Anthropic's newsroom supplied the lead and corrected an absence claim caused by a blocked page.
 - **STANDING RULES:** inspect first-party documents and dates; a blocked host is not a silent company; verify agent leads and caveats; identify revival triggers, disclose arithmetic, and never force chart rotation.
 - Recurring caution: "different companies same motion" is the worn connector; the "read the two columns" opener ran 69/72. Keep finding genuine-contrast structures.
