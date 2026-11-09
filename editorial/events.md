@@ -19,5 +19,5 @@ to it. The routine may only update dates, and only from the event's official pag
 
 ## Past
 - May–June 2026 — Code with Claude, Google I/O (May 19–20), Microsoft Build → covered in the daily issues
-- 2026-09-23 (Wed) — Meta Connect 2026, Menlo Park; keynote 16:00 PT → special issue intended 2026-09-28 (withdrawn)
-- 2026-09-29 (Tue) — OpenAI DevDay 2026, Fort Mason, San Francisco; keynote 10:00 PT → regular issue 136 (2026-10-09)
+- 2026-09-23 (Wed) — Meta Connect 2026, Menlo Park; keynote 16:00 PT → special issue 138-A (2026-09-28, backfilled)
+- 2026-09-29 (Tue) — OpenAI DevDay 2026, Fort Mason, San Francisco; keynote 10:00 PT → special issue 138-B (2026-10-05, backfilled); also covered in regular issue 136 (2026-10-09)
