@@ -15,7 +15,7 @@ to it. The routine may only update dates, and only from the event's official pag
 8. AWS re:Invent — usually early December
 
 ## Upcoming (confirmed dates only)
-(none scheduled until May 2027)
+- 2026-11-30–12-04 — AWS re:Invent 2026, Las Vegas; main keynote date not yet confirmed on the [official keynotes page](https://aws.amazon.com/events/reinvent/sessions/keynotes/).
 
 ## Past
 - May–June 2026 — Code with Claude, Google I/O (May 19–20), Microsoft Build → covered in the daily issues
