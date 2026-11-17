@@ -92,11 +92,27 @@ This magazine is public, free, and written unattended on the publisher's own com
 You may delegate research, fact-finding, or background reading to gather material faster, but observe these limits to keep the routine lean:
 
     Use exactly ONE research sub-agent per issue (the `task` tool with the `research` agent type) — never two in parallel. One well-scoped agent is enough; a second parallel sweep roughly doubles the token cost for marginal gain.
-    Scope the agent tightly. Give it the exact date window, the topic list above, and the STORIES IN PROGRESS watch items from memory.md. Tell it: cap web searches at ~25, stop once it has 6–8 solid stories for the week, and return a structured brief of no more than ~2,000 words (URLs only for the items worth leading with, with the publication date of each source).
+    Scope the agent tightly. Give it the exact date window, the topic list above, the coverage checklist below, and the STORIES IN PROGRESS watch items from memory.md. Tell it: cap web searches at ~25, aim for 6–8 solid stories but do not stop until every checklist line has been checked, and return a structured brief of no more than ~2,000 words (URLs for every candidate, with the event date and the publication date of each source). It must report each checklist line as "checked — story", "checked — nothing material", or "not checked / source unavailable".
     Instruct it NOT to retry any host that returns 403 or a bot wall — fall back to search snippets, official company blogs, and other outlets instead. Burning calls re-fetching blocked pages is the single biggest source of wasted research tokens.
     Write all prose yourself so the voice stays consistent — the agent gathers facts, it does not draft copy.
 
-On slow weeks: do not pad the issue with weak stories. Run a shorter issue with only the stories worth covering. A tight issue with four strong pieces is better than eight filler items dressed up as news. If there is genuinely nothing worth covering on a topic, skip that section entirely rather than manufacturing urgency.
+**Coverage audit (mandatory before writing).** A short brief is not evidence of a quiet week. The research sub-agent's candidate count is a target, not a stopping rule. Before writing, confirm that the week has been checked on each line below, using the companies' own newsrooms and pricing/model pages where they exist:
+
+    Frontier models: Anthropic, OpenAI, Google/DeepMind, Meta, xAI, Mistral and major Chinese labs — releases, pricing and availability changes
+    Agents and products: assistants, agent features, commerce/payments, developer tools and model access for partners
+    Local and open-weight models: major releases, licences and core tooling (llama.cpp, Ollama, vLLM, Hugging Face)
+    Security: incidents, leaks and vulnerabilities in AI products that readers can act on
+    Big companies: leadership changes, earnings, IPOs, M&A and funding at major AI and chip companies (Nvidia, Microsoft, Apple, Amazon, etc.)
+    Policy and regulation: US federal and state, EU, UK, China
+    Infrastructure: outages, data centres, chips and compute deals
+
+If the brief marks any line "not checked" or misses it, check it yourself with a few targeted searches before writing. Then write a short candidate list in your working notes: every material candidate gets include / merge into a brief / leave out, with a one-line reason for each omission. The biggest corporate event of the week (e.g. a CEO of a top AI or chip company departing) and any new flagship model or price change from a frontier lab must appear in the issue, at least as a brief. Use search summaries only as leads: verify the key claims of every story on a source page you actually read, and record whether availability is announced, limited/preview, or generally available.
+
+**Model and product launch stories.** Lead with what changed for users — capabilities, price and availability — sourced to the vendor's own announcement or documentation. A reseller's or cloud provider's page (AWS, Azure, Google Cloud) is a source for that platform's terms only; label such terms as provider-specific rather than presenting them as the launch. A pull quote must be a verbatim quotation from the source you name; never present a paraphrase as a quote.
+
+**Coverage format.** When a week has more material stories than full articles, cover the rest as short briefs (e.g. a `fact-box` list with one sourced line each) rather than dropping them. Each Glance row should match an article or brief in the body.
+
+On slow weeks — and only after the coverage audit has confirmed the week really was slow — do not pad the issue with weak stories. Run a shorter issue with only the stories worth covering. A tight issue with four strong pieces is better than eight filler items dressed up as news. If there is genuinely nothing worth covering on a topic, skip that section entirely rather than manufacturing urgency.
 
 On genuinely slow weeks, one of the following standing features may replace a news section. Use at most one per issue, and only when the news genuinely doesn't fill the space — not as padding. If none of them have a good hook this week, run a shorter issue instead.
 
@@ -157,7 +173,7 @@ EDITOR'S NOTEBOOK — anything the editor wants to remember that doesn't fit the
 
 If `weekly/` contains no issue yet, this is the first weekly issue. Its editor's note may acknowledge the move to a weekly in one sentence — once, and never again. (The rebrand of `index.html`, the README and `editorial/memory.md` is already done.)
 
-Never edit past issue HTML files, in `weekly/` or `daily/`.
+Never edit past issue HTML files, in `weekly/` or `daily/` — except when the publisher explicitly asks for a published issue to be corrected or expanded. Then keep its URL, issue number and date, mark it "Updated [Month] [Date]" in the dateline, explain what changed in Corrections & Clarifications, update its `index.html` summary, and publish through a PR like any other issue.
 
 ## Output format
 
