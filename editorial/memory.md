@@ -35,6 +35,7 @@
 
 ## STORIES IN PROGRESS
 - **OPENAI CONTAINMENT & CYBER (137–138, 138-E, 140).** Nov 18 risk post describes offline training, monitor-triggered pauses and a 35-second Control Room stop; no new Terra or Cyber exploit facts. Watch independent testing and fixes.
+- **MICROSOFT AFTER IGNITE (140).** Copilot Code GA promised in "coming weeks"; Autopilot/Workspaces only in Frontier rollout; MAI Licensed Weights and Maia 300 undated; Outlook final outage report was due Nov 20 (not yet read). Watch GA dates, agent pricing and the outage report.
 - **ALWAYS-ON AGENTS (136–140).** OpenAI Sales/healthcare computer use and AWS WorkSpaces controls expanded this week; xAI's accounting bots remain a customer case study. Watch scope, permissions, incidents and Amazon's commerce response.
 - **ANTHROPIC LISTING (139–140).** IPO priced at $83, traded Nov 19 and closed Nov 20; $93.5B gross IPO plus $26B placement. Watch the proposed 5% benefit-fund terms and governance.
 - **NVIDIA CEO SEARCH (139–140).** Q3 FY27 revenue was $115.8B; Kress remains interim and no successor was announced. Q4 guide is $130B ±3%, excluding China data-centre compute revenue.
@@ -48,7 +49,7 @@
 - COLD BUT LIVE, revive only on a new fact: Haiku 4.5 is still Active after its Oct 15 floor; Opus 4.5's floor is Nov 24.
 
 ## STANDING FEATURES LOG
-- **SPECIAL ISSUES:** 2026-09-28 Meta Connect (138-A) · 2026-10-05 OpenAI DevDay (138-B); AWS re:Invent is Nov 30–Dec 4, with Matt Garman's main keynote Dec 1, 08:30–10:30.
+- **SPECIAL ISSUES:** 2026-09-28 Meta Connect (138-A) · 2026-10-05 OpenAI DevDay (138-B) · 2026-11-23 Microsoft Ignite (140, reissued same day after the publisher added Ignite to the calendar); AWS re:Invent is Nov 30–Dec 4, with Matt Garman's main keynote Dec 1, 08:30–10:30.
 - **LAST USED: The Quiet Correction 2026-10-26 · Model Obituary 2026-09-22 · The Glossary 2026-09-21.**
 - 137 ran The Quiet Correction (Sonnet 4.5 notice dated 30 Sep, one day after our stated floor; Haiku 4.5 floor 15 Oct passed, still Active). Haiku 4.5 and Opus 4.5 (floor 24 Nov) are live deprecation watches.
 - **FIRST CALLS:** check Anthropic's newsroom, deprecations and pricing before searches; on Nov 9 Sonnet 4.5 was deprecated for Nov 30, while Haiku 4.5 and Opus 4.5 remained active.
@@ -70,7 +71,7 @@
 - **Issue 138:** OpenAI, Anthropic and Unlap results are the authors' own tests; the IPO's provisional figures were superseded by the completed offering.
 - **Issue 137:** the incident chart measures the 2.5h kill from the monitor flag (report says only 'later'); Duet/Muse via TechCrunch only.
 - **Backfills 138-A–E:** device and model performance figures are largely vendor claims; the SEC filing was blocked, and Step 5's earliest public availability remains unverified. Sonnet 5.5 cache reads were $0.20 at its Sep 28 launch and fell to $0.10 on Oct 7; its live launch page reflects the later rate.
-- **Issue 140:** GPT-6.2, Gemini 4 Neon and Qwen4-Max capability, safety and benchmark claims are vendor-reported; Qwen's launch notice lists only its cached-input rate.
+- **Issue 140:** GPT-6.2, Gemini 4 Neon and Qwen4-Max capability, safety and benchmark claims are vendor-reported; Qwen's launch notice lists only its cached-input rate. Ignite: the Copilot/ChatGPT/Claude cost chart is Microsoft-commissioned GigaOm research; MAI benchmark wins are Microsoft-chosen; Microsoft IQ availability unclear.
 - **Issue 135, most exposed: the token-cost arithmetic.** "210 million tokens is eight hundred to four thousand dollars" is OURS, computed off Opus 5.5 list prices for a run whose model Anthropic never named. Flagged in the caption. If the model was cheaper or the tokens were mostly cached, the floor is much lower.
 - **Issue 135, second: the Opus 5.5 system card figures.** CoBench 2.1 at 55.8% against an 85% threshold, METR's "unlikely to fully automate AI R&D", the highest-dual-use-assistance / lowest-malicious-refusal pairing, and the substitute-model sentence all reach us through summaries of the system card PDF. **We never opened the PDF.** The substitute-model line is quoted verbatim but we explicitly said we cannot tell what it means — keep that hedge if it is ever reused.
 - **Issue 135, third: the China probe's colour.** The Chengdu police-footage example and the Russian-database credentials come through Gizmodo/Qz/SCMP summarising Anthropic's 154-page report and The Information's reporting. No Chinese source read first-hand — as ever on this desk. Amodei's three-part proposal is corroborated by unite.ai and Forkast but not by a transcript.
@@ -78,6 +79,7 @@
 - Standing soft spots, older: the 91.5%-vs-59% Astra/Sol cyber-refusal pair never traced to a primary · the GLM-5.3 $10bn licence clause never read first-hand · "27 member tools" for Claude browser use is our inference · never attribute an "11% miss rate" to Anthropic · Enfabrica is the weak leg of the three-deals-one-form claim.
 
 ## EDITOR'S NOTE PATTERNS
+- 140 (special) OWN-MISS-AS-MIRROR note: confess the calendar miss, then map it onto the event's thesis (who controls where work starts). One-time device; do not reuse. Superseded the regular edition's STATUS-VERBS note.
 - 140 STATUS-VERBS opener → distinguish listing, model availability and policy recommendation → reader-facing status-label close; do not reuse the spine verbatim.
 - 138-A–E backfills: hardware weight, permissions, discovery delay, evidence versus findings, and token price versus licence terms; do not repeat these spines in the next issue.
 - 138 HANDOFF opener → distinguish source from summary and exploit from patch → ask what the next person can actually verify.
@@ -98,7 +100,7 @@
 - **STANDING LESSONS, the durable part:** the note that credits its subject and lets the close cost it everything is this paper's most reliable device — but vary the credit's LENGTH, because three full-paragraph credits in six issues is a formula · hold the spine to TWO stories, because three rhyming items is the barred sweep-of-three in a new suit · in every note that works, the obvious cross-story juxtaposition was deliberately LEFT OUT · a note can carry a straight self-correction and should end on it · kill the obvious accusation yourself before making the quieter point · carry sourcing caveats in corrections, not the note · the fairness hedge ("I don't have the classified capability sheet") is heavily rested.
 
 ## EDITOR'S NOTEBOOK
-- **Issue 140 (Nov 23):** Anthropic's IPO closed; GPT-6.2, Gemini 4 Neon and Qwen4-Max launched; Nvidia reported Q3 results; Microsoft's Nov 16 cause disclosure superseded the prior Friday snapshot.
+- **Issue 140 (Nov 23):** Anthropic's IPO closed; GPT-6.2, Gemini 4 Neon and Qwen4-Max launched; Nvidia reported Q3 results; Microsoft's Nov 16 cause disclosure superseded the prior Friday snapshot. Reissued as the Microsoft Ignite special the same morning: Ignite was missing from events.md, which the routine may not extend; publisher added it (item 9), and prompt.md now tells the routine to flag unlisted event keynotes in the PR and closing summary.
 - **Issue 139 (Nov 16, updated Nov 17):** first edition ran three stories and missed Nvidia, Gemini 4 Carbon, Claude Code secrets and more; rebuilt to nine Glance rows after a beat-by-beat coverage audit. Claude now sourced to Anthropic docs (AWS terms only as provider-specific).
 - **Issue 138 (Nov 9):** eight items, three leads, bar+dumbbell; checked primary research and licence, and disclosed the blocked SEC filing. Kimi weights went public Nov 4, although the repository's initial commit was Nov 2.
 - **BACKFILLS:** 138-A–E restore Sep 28, Oct 5, Oct 12, Oct 19 and Nov 2; event specials are the editions for their weeks, and the next regular number is 139.
